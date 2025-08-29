@@ -7,4 +7,5 @@ body {
 body > div {
     border-radius: 8px;
     margin: 0 10px;
+    background-color: #1a1a6b;
 }
